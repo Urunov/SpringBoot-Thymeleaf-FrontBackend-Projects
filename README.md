@@ -27,6 +27,38 @@ how to bind a list of objects as user's inputs in a Thymeleaf form.
             </table>
      
      ![AddBook](https://user-images.githubusercontent.com/11626327/84759059-33e01200-b001-11ea-81a2-3bfe4ad81b3c.JPG)
-     
+
+#
+
+## Project2-SpringBoot-Thymeleaf-Hibernate-Planet-Project
+
+   * Working with Enums in Thymeleaf
+   * Planet Project 
+   Let's start by adding the Spring Boot starter for Thymeleaf to our pom.xml file:
+ 
+      <dependency>
+         <groupId>org.springframework.boot</groupId>
+         <artifactId>spring-boot-starter-thymeleaf</artifactId>
+         <versionId>RELEASE</versionId>
+      </dependency>
+* We're going to be working with widgets that have a few choices of color, so let's define our Color enum:
+
+       public enum Solor {
+         MERCURY, VENUS, EARTH, MARS, JUPITER, SATURN, URANUS, NEPTUNE
+       }
+* Now, let's create our Widget class:
+
+       public class Planet {
+         private String name;
+         private Solar solar;
+ 
+        // Standard getters/setters
+       }
+
+
+
+
 Reference Materials
-1. https://www.baeldung.com/thymeleaf-list         
+1. https://www.baeldung.com/thymeleaf-list      
+2. https://frontbackend.com/thymeleaf/thymeleaf-tutorial   
+ 
