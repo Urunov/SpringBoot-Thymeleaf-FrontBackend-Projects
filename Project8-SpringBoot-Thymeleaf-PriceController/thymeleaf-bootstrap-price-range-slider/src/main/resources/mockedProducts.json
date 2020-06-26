@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Futbolka",
+    "material": "100% Cotton",
+    "brand": "Yupoong",
+    "price": 10.95
+  },
+  {
+    "name": "Palto",
+    "material": "100% Cotton",
+    "brand": "UzbekBrand",
+    "price": 25.20
+  },
+  {
+    "name": "Kurtka",
+    "material": "100% Cotton",
+    "brand": "Bayside",
+    "price": 38.58
+  },
+  {
+    "name": "Kuylak",
+    "material": "100% Cotton",
+    "brand": "Flexfit",
+    "price": 46.87
+  },
+  {
+    "name": "Kastyum Buryuk",
+    "material": "100% Cotton",
+    "brand": "Champion",
+    "price": 99.95
+  },
+  {
+    "name": "Bosh kiyimlar",
+    "material": "100% Cotton",
+    "brand": "Beechfield",
+    "price": 63.31
+  },
+  {
+    "name": "Classic Shim",
+    "material": "100% Cotton",
+    "brand": "Yupoong",
+    "price": 72.95
+  },
+  {
+    "name": "Gold Watch",
+    "material": "100% Gold",
+    "brand": "Otto Cap",
+    "price": 92.25
+  }
+]
